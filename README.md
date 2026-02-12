@@ -10,7 +10,7 @@ A real-time scrolling stock ticker bar for Windows that floats on top of all you
 
 **[Download the latest release](https://github.com/cunninghamb505/market-ticker-2000-releases/releases/latest)**
 
-Just download `MarketTicker2000.exe` and run it. No installation required — it's a single portable exe.
+Download `MarketTicker2000.zip`, extract it, and run `MarketTicker2000.exe`. No installation required.
 
 ---
 
@@ -50,8 +50,11 @@ Market Ticker 2000 puts a sleek scrolling ticker bar at the top of your screen s
 
 ## How to Use
 
-### 1. Launch
-Run `MarketTicker2000.exe`. A ticker bar appears at the top of your screen.
+### 1. Download & Run
+1. Download `MarketTicker2000.zip` from the [Releases page](https://github.com/cunninghamb505/market-ticker-2000-releases/releases/latest)
+2. Extract the zip to any folder
+3. Run `MarketTicker2000.exe`
+4. A ticker bar appears at the top of your screen
 
 ### 2. System Tray
 Look for the icon near your clock. Right-click it for the menu:
@@ -61,7 +64,7 @@ Look for the icon near your clock. Right-click it for the menu:
 - **Exit** — Close the app
 
 ### 3. Settings
-The settings dialog has 4 tabs:
+The settings dialog has 5 tabs:
 
 **General** — Add/remove symbols, set refresh interval, choose monitor, position, scroll direction
 
@@ -70,6 +73,8 @@ The settings dialog has 4 tabs:
 **Features** — Toggle sparklines, market status, news, hover pause, click-to-chart, auto-hide, hotkey
 
 **Alerts** — Set price alert rules like `AAPL > 200` or `SPY < 400`
+
+**About** — App info and credits
 
 ### 4. Examples
 
@@ -93,6 +98,15 @@ AAPL > 200; SPY < 400; BTC-USD > 100000
 Ctrl+Shift+T   (default)
 Ctrl+Alt+M     (example)
 ```
+
+## Security & Antivirus
+
+Some antivirus software may flag this app as suspicious. This is a **false positive** — it happens because the app is built with PyInstaller, which bundles Python into an executable.
+
+To verify the app is safe:
+- **VirusTotal scan** — Each release includes a link to the VirusTotal scan results so you can check for yourself
+- **No data collection** — The app only connects to Yahoo Finance, Google Finance, and MarketWatch for stock data and news. It does not collect, store, or transmit any personal information
+- **Open distribution** — The zip contains the exe alongside its dependencies as separate files (not packed into a single file), which reduces false positives
 
 ## System Requirements
 
