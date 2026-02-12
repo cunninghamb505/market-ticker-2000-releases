@@ -28,6 +28,7 @@ A scrolling stock ticker bar for Windows that sits on top of all your windows.
 Go to the [Releases](https://github.com/cunninghamb505/market-ticker-2000-releases/releases) page and download the latest `MarketTicker2000.exe`.
 
 No installation required — it's a single portable exe. Just run it.
+<img width="1137" height="380" alt="image" src="https://github.com/user-attachments/assets/d4a7ecdd-9297-4587-b7d2-db67858a3d85" />
 
 ## Usage
 
