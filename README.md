@@ -10,7 +10,7 @@ A real-time scrolling stock ticker bar for Windows that floats on top of all you
 
 **[Download the latest release](https://github.com/cunninghamb505/market-ticker-2000-releases/releases/latest)**
 
-Download  via the realease and install app. .
+Download  via the release and install app. .
 
 ---
 
