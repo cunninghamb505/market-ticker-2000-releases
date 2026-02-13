@@ -10,7 +10,7 @@ A real-time scrolling stock ticker bar for Windows that floats on top of all you
 
 **[Download the latest release](https://github.com/cunninghamb505/market-ticker-2000-releases/releases/latest)**
 
-Download `MarketTicker2000.zip`, extract it, and run `MarketTicker2000.exe`. No installation required.
+Download  via the realease and install app. .
 
 ---
 
